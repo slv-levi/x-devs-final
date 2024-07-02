@@ -7,7 +7,7 @@ Um projeto interativo, que consiste em cards informativos, com nome e descriçã
 - HTML;
 - CSS;
 - JAVASCRIPT;
-[<img src="./src/imagens/imagens readme/pngegg.png" alt="png das linguagens html, css e javascript">]
+<img src="./src/imagens/imagens readme/pngegg.png" alt="png das linguagens html, css e javascript">
 
 ## Contatos
 <div> 
