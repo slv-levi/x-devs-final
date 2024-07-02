@@ -2,7 +2,7 @@
 Um projeto interativo, que consiste em cards informativos, com nome e descrição de alguns personagens parodiados da MARVEL X-MENS.
 
 [<img src="./src/imagens/imagens readme/Animação tela.gif" alt="gif da tela inicial do projeto x-devs">](https://slv-levi.github.io/x-devs-final/)
-<strong>obs: o link para a pagina, está no GIF.</strong>
+<a href="https://slv-levi.github.io/x-devs-final/" target="blank">link para o projeto.</a>
 
 ## Tecnologias utilizadas
 - HTML;
